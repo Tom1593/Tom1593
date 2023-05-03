@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Tom
 
-Im a Computer Engineering Graduate from Bar Ilan University with passion to learning new things and the curiosity to find them!\n
+Im a Computer Engineering Graduate from Bar Ilan University with passion to learning new things and the curiosity to find them!  
 I love Machine learning and AI
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,discord,eclipse,flask,git,linux,matlab,py)](https://skillicons.dev)
-
+[![Toms's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom1593)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Tom1593/Tom1593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
