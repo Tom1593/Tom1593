@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tom
 
-Im a Computer Engineering Graduate from Bar Ilan University with passion to learning new things and the curiosity to find them!
+Im a Computer Engineering Graduate from Bar Ilan University with passion to learning new things and the curiosity to find them!\n
 I love Machine learning and AI
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,discord,eclipse,flask,git,linux,matlab,py)](https://skillicons.dev)
