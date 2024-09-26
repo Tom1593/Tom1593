@@ -2,6 +2,9 @@
 
 Im a Computer Engineering Graduate from Bar Ilan University with passion to learning new things and the curiosity to find them!  
 I love Machine learning and AI
+Has the opportunity to be involved in the early development of customer facing services, maintaining, refactoring and adding features to them with fast delivery in mind.
+Improved current development processes and developer experience working with our repos, from managing repos,github actions and docker to working with aws services to integrate and deploy our product.
+Has an active role in managing our postgress db, adding users and roles, creating new schemas and dealing with rouge transactions, doing db migration and enhancing our data access layer.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,discord,eclipse,flask,git,linux,matlab,py)](https://skillicons.dev)
 [![Toms's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom1593)](https://github.com/anuraghazra/github-readme-stats)
